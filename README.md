@@ -1,16 +1,17 @@
 Hi There!👋
-My name is Vinícius Prado
-My name is Vinícius Prado, I'm 19 years old and in 2023 I had my first contact with the world of programming, where I started with the HTML AND CSS language, and today my main focus is the development of WEB applications with Java using SPRING FRAMEWORK AND REACT FRAMEWORK. I really want to learn and I seek more and more knowledge every day.
-I have a brief knowledge of Spring and javascript.
+
+My name is Vinícius Prado. I'm 19 years old, and in 2023 I had my first contact with the world of programming. I started with HTML and CSS, and today my main focus is on developing web applications using the Spring Framework (Java) and React.
+I'm passionate about learning and constantly seeking to expand my knowledge.
+I have basic knowledge of Spring.
 
 
--📘 English level: medium 
--🎓 Systems Analysis and Development - SENAC - Florianópolis
--💡 Seeking knowledge
+- 📘 English level: medium 
+- 🎓 Systems Analysis and Development – SENAC, Florianópolis
+- 💡 Seeking knowledge
 
 
 
-##Tools that I dominate
+## Tools that I dominate
 [![My Skills](https://skillicons.dev/icons?i=javascript,react,html,css,java,spring,postman,mysql,maven,docker)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
