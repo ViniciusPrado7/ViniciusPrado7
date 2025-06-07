@@ -4,13 +4,13 @@ My name is Vinícius Prado, I'm 19 years old and in 2023 I had my first contact 
 I have a brief knowledge of Spring and javascript.
 
 
-📘 English level: medium
-🎓 Systems Analysis and Development - SENAC - Florianópolis
-💡 Seeking knowledge
+-📘 English level: medium 
+-🎓 Systems Analysis and Development - SENAC - Florianópolis
+-💡 Seeking knowledge
 
 
 
-Tools that I dominate
+##Tools that I dominate
 [![My Skills](https://skillicons.dev/icons?i=javascript,react,html,css,java,spring,postman,mysql,maven,docker)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
