@@ -17,5 +17,4 @@ I'm passionate about learning and constantly seeking to expand my knowledge.
 [![My Skills](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
 
 My social media
-<a href="https://instagram.com/vinisprd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinisprd" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vinícius-prado-210701234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinicius de Souza Prado" height="30" width="40" /></a>
